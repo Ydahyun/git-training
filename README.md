@@ -5,7 +5,7 @@
 ## 2주차
     - 커맨드기반 환경  
     - GIT 개요
-    - ![git image](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/c4b07/dot-git.jpg)
+* ![git image](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/c4b07/dot-git.jpg)
 ## 3주차
     - GIT 실습
 ## 4주차
